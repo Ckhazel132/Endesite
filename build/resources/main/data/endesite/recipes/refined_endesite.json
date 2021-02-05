@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endesite:endesite_block"
+    }
+  ],
+  "result": {
+    "item": "endesite:refined_endesite",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "endesite:refined_endesite"
+    }
+  },
+  "result": {
+    "item": "endesite:endesite_block",
+    "count": 1
+  }
+}

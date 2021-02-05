@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "endesite",
+  "version": "${version}",
+
+  "name": "Endesite Mod",
+  "description": "I get it epic style",
+  "authors": [
+    "Ckhazel132"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/endesite/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.ckhazel132.endesite.Endesite"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

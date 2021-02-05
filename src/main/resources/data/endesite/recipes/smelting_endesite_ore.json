@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "endesite:endesite_ore"
+    },
+    "result": "endesite:refined_endesite",
+    "experience": 10,
+    "cookingtime": 200
+}
