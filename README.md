@@ -2,7 +2,9 @@
 This mod is still heavily into development, don't expect much right now, but I am pleased to have made a 1.0 commit
 
 Mod includes a new ore that spawns in veins of up to 3 from y=0 to y=21 in the end and end highlands
+
 Ingots can smelted from these ores. Currently, only uses are to create mineral blocks and a custom music disc.
+
 More features I promise!!!!
 
 big ups to the 0 people other than me reading this
